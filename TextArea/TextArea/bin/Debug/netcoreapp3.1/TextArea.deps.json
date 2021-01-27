@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TextArea/1.0.0": {
+        "dependencies": {
+          "AttributesLib": "1.0.0"
+        },
+        "runtime": {
+          "TextArea.dll": {}
+        }
+      },
+      "AttributesLib/1.0.0": {
+        "runtime": {
+          "AttributesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextArea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

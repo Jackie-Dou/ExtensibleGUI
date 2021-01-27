@@ -1,0 +1,11 @@
+D:\Study\SPP\AttributesLib\AttributesLib\bin\Debug\AttributesLib.dll
+D:\Study\SPP\AttributesLib\AttributesLib\bin\Debug\AttributesLib.pdb
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.csprojAssemblyReference.cache
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.csproj.CoreCompileInputs.cache
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.dll
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.pdb
+F:\Курс_3_Семестр_1\СПП\Lab_4_2\ExtensibleGUI\ExtensibleGUI\AttributesLib\AttributesLib\AttributesLib\bin\Debug\AttributesLib.dll
+F:\Курс_3_Семестр_1\СПП\Lab_4_2\ExtensibleGUI\ExtensibleGUI\AttributesLib\AttributesLib\AttributesLib\bin\Debug\AttributesLib.pdb
+F:\Курс_3_Семестр_1\СПП\Lab_4_2\ExtensibleGUI\ExtensibleGUI\AttributesLib\AttributesLib\AttributesLib\obj\Debug\AttributesLib.csproj.CoreCompileInputs.cache
+F:\Курс_3_Семестр_1\СПП\Lab_4_2\ExtensibleGUI\ExtensibleGUI\AttributesLib\AttributesLib\AttributesLib\obj\Debug\AttributesLib.dll
+F:\Курс_3_Семестр_1\СПП\Lab_4_2\ExtensibleGUI\ExtensibleGUI\AttributesLib\AttributesLib\AttributesLib\obj\Debug\AttributesLib.pdb
